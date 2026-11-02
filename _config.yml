@@ -6,4 +6,3 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 paginate: 4
-theme: jekyll-theme-minimal
