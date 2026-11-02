@@ -1,7 +1,6 @@
 title: Kasturi Shah
 description: Kasturi's website
 baseurl: /climb
-url: www.kasturishah.me
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
