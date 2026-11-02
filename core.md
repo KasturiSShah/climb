@@ -3,6 +3,5 @@ layout: page
 title: Core
 ---
 
-# Core
 
-Testing navbar links.
+Testing
