@@ -1,0 +1,8 @@
+title: Kasturi Shah
+description: Kasturi Shah website
+baseurl: www.kasturishah.me
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+paginate: 3
