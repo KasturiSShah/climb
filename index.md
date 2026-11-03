@@ -7,4 +7,4 @@ title: Kasturi Shah
 
 ## Kasturi Shah
 
-Assistant Professor, University of Washington $\quad$ | $\quad$ kasturi7 (at) uw (dot) edu
+Assistant Professor, University of Washington $\rvert$ kasturi7 (at) uw (dot) edu
