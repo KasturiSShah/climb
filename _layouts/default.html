@@ -7,17 +7,15 @@
     <meta name="author" content="Kasturi Shah">
 
     <title>Kasturi Shah</title>
-    <!-- <link href="styles.css" rel="stylesheet"> -->
-    <link href="/assets/css/style.scss" rel="stylesheet">
 
-    <!-- Favicons -->
+    <!-- image in tab of browser -->
     <link rel="icon" href="/assets/img/icons8-triple-integral-64.png">
     <meta name="theme-color" content="#712cf9">   
 
     <style>
 
-      /* ==========================================================================
-   Base Styles & Reset
+   /* ==========================================================================
+   Foundational items: margin, padding, font, background colour
    ========================================================================== */
    * {
     box-sizing: border-box;
@@ -33,7 +31,7 @@
     padding: 20px;
   }
   
-  /* Container to center content and restrict width */
+  /* Centre content and restrict width */
   .container {
     max-width: 800px;
     margin: 0 auto;
@@ -44,7 +42,7 @@
   }
   
   /* ==========================================================================
-     Typography
+     Headings, paragraphs, hovering mouse
      ========================================================================== */
   h1, h2, h3 {
     margin-bottom: 1rem;
@@ -66,7 +64,7 @@
   }
   
   /* ==========================================================================
-     Components
+     Buttons, lists
      ========================================================================== */
   /* Buttons */
   .btn {
@@ -95,14 +93,16 @@
     margin-bottom: 0.5rem;
   }
   
-  /* navigation bar */
-/* Add a black background color to the top navigation */
+/* ==========================================================================
+     Navigation bar at top of each page (W3Schools code as starting point)
+     ========================================================================== */
+/* Background colour */
 .topnav {
   background-color: rgb(49, 38, 52);
   overflow: hidden;
 }
 
-/* Style the links inside the navigation bar */
+/* Options inside navigation bar */
 .topnav a {
   float: left;
   color: #f2f2f2;
@@ -112,7 +112,7 @@
   font-size: 17px;
 }
 
-/* Change the color of links on hover */
+/* Hover changes colour */
 .topnav a:hover {
   background-color: #ddd;
   color: black;
@@ -124,37 +124,39 @@
   color: white;
 }
 
-/* Add a color to my name */
+/* Add a color to my name on LHS */
 .topnav a.name {
   background-color: #236f53;
   color: white;
 }
       
-          </style>    
+</style>    
 
-  </head>
+</head>
   
-  <body>
+<body>
 
+    <!-- Navigation bar headings  -->
     <div class="topnav">
       <a class="name">Kasturi Shah</a>
-      <a class="active" href="/core.html">Core</a>
+      <a href="/core.html">Core</a>
       <a href="/research.html">Research</a>
       <a href="/teaching.html">Teaching</a>
       <a href="/service.html">Service</a>
     </div>
-    
+
+    <!-- content insertion from each .md file  -->
     <div class="col-lg-8 mx-auto p-4 py-md-5">
       <main>
         {{ content }} 
       </main>
 
+      <!-- footer with copyright -->
       <footer class="pt-5 my-5 text-body-secondary border-top">
         &copy; &middot; Kasturi Shah
       </footer>
     </div>
     
-
     </body>
   
 </html>
