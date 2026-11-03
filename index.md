@@ -5,10 +5,6 @@ title: Kasturi Shah
 
 # Welcome!
 
-Kasturi Shah
+## Kasturi Shah
 
-Assistant Professor
-
-University of Washington
-
-kasturi7 (at) uw (dot) edu
+Assistant Professor, University of Washington $\quad$ | $\quad$ kasturi7 (at) uw (dot) edu
