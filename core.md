@@ -5,3 +5,5 @@ title: Core
 
 
 Testing
+
+$\nabla^2$
