@@ -7,6 +7,8 @@ title: Kasturi Shah
 
 Website under construction, being updated daily.
 
+$\nabla^2$
+
 ---
 
 Kasturi Shah 
