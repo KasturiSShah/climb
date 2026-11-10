@@ -26,7 +26,7 @@ By what mechanism and under what conditions does coupling between atmospheric ph
 Wildfire smoke-filled vortices in the stratosphere:
 
 Publications:
-- Shah, K., Haynes, P.: How heating tracers drive self-lofting long-lived stratospheric anticyclones: simple dynamical models. Weather & Climate Dynamics. 2024. [https://doi.org/10.5194/wcd-5-559-2024](https://doi.org/10.5194/wcd-5-559-2024)
+- Shah, K., Haynes, P.: How heating tracers drive self-lofting long-lived stratospheric anticyclones: simple dynamical models. Weather & Climate Dynamics. 2024. [https://doi.org/10.5194/wcd-5-559-2024](https://doi.org/10.5194/wcd-5-559-2024){:target="_blank"}
 - Shah, K., Haynes, P., The survival of anticyclones from stratospheric smoke-charged vortex pairs. Under Review.
 
 Media:
