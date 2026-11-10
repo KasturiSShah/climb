@@ -14,7 +14,7 @@ title: Core
 I am building a research group and research endeavour centred on the following values: 
  
 <blockquote> 
- Boldness, Creativity, Drive, Hard work, Humility, Integrity, Kindness, Resilience, Respect 
+ <p>Boldness, Creativity, Drive, Hard work, Humility, Integrity, Kindness, Resilience, Respect</p>
 </blockquote>
 
 (Working list, ordered alphabetically.)
