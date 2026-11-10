@@ -61,13 +61,13 @@ Limited financial assistance for the application fee is available for US citizen
 
 **Should I email you if I'm interested in you being my PhD advisor?**
 
-While communication is by no means required prior to the application deadline, if you'd like to do so, please email me with subject title ==‘Prospective PhD Student (Current Year)’== with: (i) one paragraph that addresses why you’d like to do your PhD with me, (ii) your CV. If you’re short listed for an interview in my group, I will email you sometime after the application deadline. If you are reading this, you are encouraged to apply!
+While communication is by no means required prior to the application deadline, if you'd like to do so, please email me with subject title ‘_Prospective PhD Student (Current Year)_’ with: (i) one paragraph that addresses why you’d like to do your PhD with me, (ii) your CV. If you’re short listed for an interview in my group, I will email you sometime after the application deadline. If you are reading this, you are encouraged to apply!
 
 #### Undergraduate students
 
 **Undergraduate thesis:** 
 
-Students in their junior and senior year interested in doing a research thesis are encouraged to email with subject title =='Undergraduate Thesis Research (Current Year)'== with their research interests, by both theme and technique. Plenty of projects available and we'll work together to identify (or craft) one that will be a great fit for you.
+Students in their junior and senior year interested in doing a research thesis are encouraged to email with subject title '_Prospective Undergraduate Thesis Research (Current Year)_' with their research interests, by both theme and technique. Plenty of projects available and we'll work together to identify (or craft) one that will be a great fit for you.
 
 **Undergraduate research project:**
 
@@ -79,7 +79,7 @@ Projects will be posted through the Research Opportunities database with applica
 
 *Prospective postdoctoral scholars are encouraged to apply to fellowships, e.g., [Schmidt Science Fellows](https://schmidtsciencefellows.org/program/overview/), [NSF fellowships](https://www.nsf.gov/funding/postdocs), [NOAA Climate & Global Change Postdoctoral Program](https://cpaess.ucar.edu/cgc), [CICOES Postdoctoral Program](https://cicoes.uw.edu/education/postdoc-program/) at the UW, [Program on Climate Change Postdoctoral Scholars](https://pcc.uw.edu/research/funding-opportunities/pcc-postdoctoral-scholar-program-2026/) at the UW.* 
 
-For fellowship applications that need to be co-written by a faculty member and prospective postdoc, if you're interested in developing an idea together, please send an email titled =='Prospective Postdoctoral Scholar (Current Year)'== with: (i) a short description of why you'd like to work together (e.g., which of my research areas interest you, which research techniques you’d like to use and/or learn), (ii) your CV, (iii) if you have a specific research idea you’d like to work on with me, it is helpful to briefly include some or all of the following information: significance, novelty, research questions, and methodology.
+For fellowship applications that need to be co-written by a faculty member and prospective postdoc, if you're interested in developing an idea together, please send an email titled '_Prospective Postdoctoral Scholar (Current Year)_' with: (i) a short description of why you'd like to work together (e.g., which of my research areas interest you, which research techniques you’d like to use and/or learn), (ii) your CV, (iii) if you have a specific research idea you’d like to work on with me, it is helpful to briefly include some or all of the following information: significance, novelty, research questions, and methodology.
 
 ### About the department and living in Seattle
 
