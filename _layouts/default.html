@@ -65,11 +65,6 @@
   a:hover {
     text-decoration: underline;
   }
-
-  /* lists */
-  ul, ol, li {
-    font-size: 1.25rem; 
-  }
   
   /* ==========================================================================
      Buttons, lists
@@ -95,10 +90,12 @@
   ul, ol {
     margin-bottom: 1.5rem;
     padding-left: 20px;
+    font-size: 1.25rem; 
   }
   
   li {
     margin-bottom: 0.5rem;
+    font-size: 1.25rem; 
   }
   
 /* ==========================================================================
@@ -162,6 +159,17 @@ Column
   content: "";
   display: table;
   clear: both;
+}
+
+/* ==========================================================================
+Block quote
+========================================================================== */
+blockquote {
+  margin: 1.5em 0;
+  padding: 1em 1.5em;
+  border-left: 5px solid #0076ff; /* Accent line color */
+  background-color: #f8f9fa;     /* Light gray background */
+  border-radius: 0 8px 8px 0;    /* Soft corners on the right */
 }
       
 </style>    
