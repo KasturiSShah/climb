@@ -3,8 +3,6 @@ layout: page
 title: Core
 ---
 
-# Core
-
 [Values](#Values) // [People](#People) // [Join the fun](#join-the-fun)
 
 ---
