@@ -5,7 +5,7 @@ title: Core
 
 # Core
 
-[Values](#Values) | [People](#People) | [Join the fun](#join-the-fun)
+[Values](#Values) // [People](#People) // [Join the fun](#join-the-fun)
 
 ---
 
@@ -13,7 +13,9 @@ title: Core
 
 I am building a research group and research endeavour centred on the following values: 
  
-> Boldness, Creativity, Drive, Hard work, Humility, Integrity, Kindness, Resilience, Respect 
+<blockquote> 
+ Boldness, Creativity, Drive, Hard work, Humility, Integrity, Kindness, Resilience, Respect 
+</blockquote>
 
 (Working list, ordered alphabetically.)
 
