@@ -70,7 +70,7 @@ Astrophysical and geophysical turbulence:
 The term 'cryosphere' refers to the frozen portions of the Earth system: glaciers, icebergs, icesheets, iceshelves, permafrost, sea ice, snow, and so on. 
 My research focuses on how Earth's ice flows, deforms, and fails, with work on determining the rheology of floating ice (e.g., mélange which is a floating medley of drift ice, icebergs, and sea ice) and on transient dynamics (e.g., glaciers that episodically surge forward). 
 A running theme is granular physics in the cryosphere, specifically, subglacial sediment and mélange, for which I develop a mix of theoretical frameworks and laboratory experiments to compare to the observations. 
-Work done on my journey to studying coupled ice-sediment interactions is Shah, K., Pegler, S., Minchew, B.: Two-layer fluid flows on inclined surfaces. Journal of Fluid Mechanics. 2021. https://doi.org/10.1017/jfm.2021.273
+Work done on my journey to studying coupled ice-sediment interactions is Shah, K., Pegler, S., Minchew, B.: Two-layer fluid flows on inclined surfaces. Journal of Fluid Mechanics. 2021. [https://doi.org/10.1017/jfm.2021.273](https://doi.org/10.1017/jfm.2021.273)
 
 ---
 
