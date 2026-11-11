@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-[Approach](#Approach) // [Research areas](#research-areas) // [AI policy](#ai-use-policy-for-research)
+[Approach](#approach) // [Research areas](#research-areas) // [AI policy](#ai-use-policy-for-research)
 
 ## Approach
 
