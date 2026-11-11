@@ -10,11 +10,11 @@ Website structure:
 - Research (Approach, Research areas, AI use policy for research)
 - Teaching (Approach, Courses, AI use policy for learning)
 
-Assistant Professor
-
-Department of Atmospheric & Climate Science
-
+<p>
+Assistant Professor<br>
+Department of Atmospheric & Climate Science<br>
 University of Washington
+</p>
 
 Contact: kasturi7 at uw dot edu
 
