@@ -16,7 +16,7 @@ Research techniques involve partial differential equations, asymptotic methods, 
 
 ## Research areas
 
-Below are a few examples of my completed research, grouped by theme.
+Below are a few examples of my research, grouped by theme.
 
 ### Wildfire-atmosphere coupling
 
