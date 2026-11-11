@@ -9,7 +9,7 @@ title: Research
 
 My research is at the interface of applied mathematics and climate physics. 
 The foundational research questions driving my work typically focus on how, when, and why, i.e., by what mechanism, under what conditions, and what is the societal and climate importance? 
-Current areas of focus include wildfire-atmosphere coupling, cryospheric rheology, and stratospheric dynamics. 
+Current areas of focus include wildfire-atmosphere coupling, cryospheric physics, and stratospheric dynamics. 
 Research techniques involve partial differential equations, asymptotic methods, laboratory experiments, and physics-informed machine learning.
 
 ---
@@ -65,7 +65,7 @@ Astrophysical and geophysical turbulence:
 - Garaud, P., Chini, G., Cope, L., Shah, K., Caulfield, C. Numerical validation of scaling laws for stratified turbulence. Journal of Fluid Mechanics: Rapids. 2024. [https://doi.org/10.1017/jfm.2024.531](https://doi.org/10.1017/jfm.2024.531){:target="_blank"}
 
 
-### Cryospheric dynamics
+### Cryospheric physics
 
 The term 'cryosphere' refers to the frozen portions of the Earth system: glaciers, icebergs, icesheets, iceshelves, permafrost, sea ice, snow, and so on. 
 My research focuses on how Earth's ice flows, deforms, and fails, with work on determining the rheology of floating ice (e.g., mélange which is a floating medley of drift ice, icebergs, and sea ice) and on transient dynamics (e.g., glaciers that episodically surge forward). 
