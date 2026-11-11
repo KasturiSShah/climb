@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-[Approach](#Approach) // [Courses](#Courses) // [AI use policy](#ai-use-policy-for-learning)
+[Approach](#approach) // [Courses](#courses) // [AI use policy](#ai-use-policy-for-learning)
 
 ## Approach
 
