@@ -6,12 +6,13 @@ title: Kasturi Shah
 <div class="row">
   <div class="columnwide">
     <p>Welcome. I work at the interface of applied maths and climate physics to investigate a variety of our planet's dynamics, ranging from the atmosphere to the cryosphere. </p>
-    <p> Website structure:</p>
+    <p> Website structure:
     <ul>
     <li>Core (Values, People, Join the fun)</li>
 	<li>Research (Approach, Research areas, AI use policy for research)</li>
 	<li>Teaching (Approach, Courses, AI use policy for learning)</li>
 	</ul>
+	</p>
     <p>Assistant Professor <br>
       Department of Atmospheric & Climate Science <br>
       University of Washington <br>
