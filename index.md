@@ -24,13 +24,11 @@ Website structure:
 - Research (Approach, Research areas, AI use policy for research);
 - Teaching (Approach, Courses, AI use policy for learning).
 
-![Photo of Kasturi Shah](/assets/img/KasturiShah_Website.jpg){:width: 40%; height: auto; min-width: 100px;}
-
 <p>
 	Assistant Professor<br>
-	Dept. of Atmospheric & Climate Science<br>
+	Department of Atmospheric & Climate Science<br>
 	University of Washington<br>
-	kasturi7 at uw dot edu
+	Contact: kasturi7 at uw dot edu
 </p>
 
 ---
