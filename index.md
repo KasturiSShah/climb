@@ -13,7 +13,7 @@ title: Kasturi Shah
 	</ul>
   </div>
   <div class="columnnarrow">
-    <img src="KasturiShah_Website.jpg">
+    <img src="./assets/img/KasturiShah_Website.jpg">
   </div>
 </div>
 
