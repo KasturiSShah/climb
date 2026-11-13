@@ -18,7 +18,7 @@ title: Kasturi Shah
 	  <p>Contact: kasturi7 at uw dot edu</p>
   </div>
   <div class="columnnarrow" style="text-align: center;">
-	<img src="./assets/img/KasturiShah_Website.jpg" style="width: 50%; height: auto;">
+	<img src="./assets/img/KasturiShah_Website.jpg" style="width: 50%; height: auto; min-width: 300px;">
   </div>
 </div>
 
