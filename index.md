@@ -13,7 +13,6 @@ title: Kasturi Shah
 	Assistant Professor<br>
 	Department of Atmospheric & Climate Science<br>
 	University of Washington<br>
-	Contact: kasturi7 at uw dot edu
 	</p>
   </div>
   <div class="columnnarrow" style="text-align: center;">
@@ -21,5 +20,6 @@ title: Kasturi Shah
   </div>
 </div>
 
+Contact: kasturi7 at uw dot edu
 
 ---
