@@ -24,7 +24,7 @@ Website structure:
 - Research (Approach, Research areas, AI use policy for research);
 - Teaching (Approach, Courses, AI use policy for learning).
 
-![Kasturi Shah](./assets/img/KasturiShah_Website.jpg)
+![Photo of Kasturi Shah](/assets/img/KasturiShah_Website.jpg){:width: 40%; height: auto; min-width: 100px;}
 
 <p>
 	Assistant Professor<br>
