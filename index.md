@@ -12,7 +12,10 @@ title: Kasturi Shah
   </div>
 </div>
 
-Website structure: (i) Core (Values, People, Join the fun); (ii) Research (Approach, Research areas, AI use policy for research); (iii) Teaching (Approach, Courses, AI use policy for learning).
+Website structure: 
+- Core (Values, People, Join the fun); 
+- Research (Approach, Research areas, AI use policy for research); (
+- Teaching (Approach, Courses, AI use policy for learning).
 
 <p>
 Assistant Professor<br>
