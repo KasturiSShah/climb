@@ -11,18 +11,16 @@ title: Kasturi Shah
 		<li>Research (Approach, Research areas, AI use policy for research) </li>  
 		<li>Teaching (Approach, Courses, AI use policy for learning)</li> 
 	</ul>
+	  <p>
+		Assistant Professor<br>
+		Department of Atmospheric & Climate Science<br>
+		University of Washington
+		</p>
+	  <p>Contact: kasturi7 at uw dot edu</p>p>
   </div>
-  <div class="columnnarrow">
-	<img src="./assets/img/KasturiShah_Website.jpg" style="width: 30%; height: auto;">
+  <div class="columnnarrow" style="text-align: center;">
+	<img src="./assets/img/KasturiShah_Website.jpg" style="width: 50%; height: auto;">
   </div>
 </div>
-
-<p>
-Assistant Professor<br>
-Department of Atmospheric & Climate Science<br>
-University of Washington
-</p>
-
-Contact: kasturi7 at uw dot edu
 
 ---
