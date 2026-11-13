@@ -3,14 +3,19 @@ layout: default
 title: Kasturi Shah
 ---
 
-# Welcome.
-
-I work at the interface of applied maths and climate physics to investigate a variety of our planet's dynamics, ranging from the atmosphere to the cryosphere.
-
-Website structure: 
-- Core (Values, People, Join the fun)
-- Research (Approach, Research areas, AI use policy for research)
-- Teaching (Approach, Courses, AI use policy for learning)
+<div class="row">
+  <div class="column">
+    <p>Welcome. I work at the interface of applied maths and climate physics to investigate a variety of our planet's dynamics, ranging from the atmosphere to the cryosphere. </p> 
+	<ul>Website structure: 
+		<li>Core (Values, People, Join the fun) </li> 
+		<li>Research (Approach, Research areas, AI use policy for research) </li>  
+		<li>Teaching (Approach, Courses, AI use policy for learning)</li> 
+	</ul>
+  </div>
+  <div class="column">
+    <img src="/assets/img/KasturiShah_Website.jpg" >
+  </div>
+</div>
 
 <p>
 Assistant Professor<br>
