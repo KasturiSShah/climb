@@ -13,7 +13,7 @@ title: Kasturi Shah
 	</ul>
   </div>
   <div class="columnnarrow">
-    <p align="center"><img src="./KasturiShah_Website.jpg" width=50%></p>
+    <p align="center"><img src="KasturiShah_Website.jpg" width=50%></p>
   </div>
 </div>
 
