@@ -10,7 +10,7 @@ title: Kasturi Shah
 		<li>Core (Values, People, Join the fun) </li> 
 		<li>Research (Approach, Research areas, AI use policy for research) </li>  
 		<li>Teaching (Approach, Courses, AI use policy for learning)</li> 
-	</ul></div>
+	</ul></p>
 	<p>Assistant Professor<br>
 		Department of Atmospheric & Climate Science<br>
 		University of Washington
