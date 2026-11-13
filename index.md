@@ -4,7 +4,7 @@ title: Kasturi Shah
 ---
 
 <div class="row">
-  <div class="column">
+  <div class="columnwide">
     <p>Welcome. I work at the interface of applied maths and climate physics to investigate a variety of our planet's dynamics, ranging from the atmosphere to the cryosphere. </p> 
 	<ul>Website structure: 
 		<li>Core (Values, People, Join the fun) </li> 
@@ -12,7 +12,7 @@ title: Kasturi Shah
 		<li>Teaching (Approach, Courses, AI use policy for learning)</li> 
 	</ul>
   </div>
-  <div class="column">
+  <div class="columnnarrow">
     <img src="/assets/img/KasturiShah_Website.jpg" >
   </div>
 </div>
