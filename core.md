@@ -44,13 +44,13 @@ My advising philosophy is to be an **approachable, clear, consistent, patient, a
 
 ### Available positions
 
-This webpage is regularly updated with available positions and information on how to apply. A maths and/or physics background is generally helpful. I am always happy to hear from those interested in joining my group. Below, I have provided guidance about how to get in touch and what information to include. **Please** follow the guidance, focus on clarity and specificity, ensure that the ideas in your communications are your own, and never mind about grammar and spelling. I read every email. Given the volume of emails received, information is also provided below on situations in which you may hear back.
+This webpage is regularly updated with available positions and information on how to apply. A maths and/or physics background is generally helpful. I am always happy to hear from those interested in joining my group. Below, I have provided guidance about how to get in touch and what information to include. **Please** follow the guidance, focus on clarity and specificity, ensure that the ideas in your communications are your own, and never mind about grammar and spelling. I read every email.
 
 #### PhD students
 
 *Funded position available for Autumn 2027 entry.*
 
-PhD applications are submitted to the UW Graduate School, please carefully read [https://atmos.uw.edu/students/graduate-program/how-to-apply/](https://atmos.uw.edu/students/graduate-program/how-to-apply/) Deadline is 1 December 2026. 
+PhD applications are submitted to the UW Graduate School, please carefully read [https://atmos.uw.edu/students/graduate-program/how-to-apply/](https://atmos.uw.edu/students/graduate-program/how-to-apply/){:target="_blank"} Deadline is 1 December 2026. 
 
 Limited financial assistance for the application fee is available for US citizens from the UW Graduate School and for international applicants from the department.
 
@@ -61,7 +61,7 @@ Limited financial assistance for the application fee is available for US citizen
 
 **Should I email you if I'm interested in you being my PhD advisor?**
 
-While communication is by no means required prior to the application deadline, if you'd like to do so, please email me with subject title ‘_Prospective PhD Student (Current Year)_’ with: (i) one paragraph that addresses why you’d like to do your PhD with me, (ii) your CV. If you’re short listed for an interview in my group, I will email you sometime after the application deadline. If you are reading this, you are encouraged to apply!
+While communication is by no means required prior to the application deadline, if you'd like to do so, please email me with subject title ‘_Prospective PhD Student (Current Year)_’ with: (i) one paragraph that addresses why you’d like to do your PhD with me, (ii) your CV. Short listing of candidates for interview begins after the application deadline, and shortlisted applicants will be notified once the process is complete. If you are reading this, you are encouraged to apply!
 
 #### Undergraduate students
 
@@ -73,17 +73,17 @@ Students in their junior and senior year interested in doing a research thesis a
 
 *Positions available for projects in academic year 2026-27 and summer 2027.*
 
-Projects will be posted through the Research Opportunities database with application instructions [https://www.washington.edu/undergradresearch/find/](https://www.washington.edu/undergradresearch/find/) and you'll be notified if you are selected for an interview. 
+Projects will be posted through the Research Opportunities database with application instructions [https://www.washington.edu/undergradresearch/find/](https://www.washington.edu/undergradresearch/find/){:target="_blank"} and you'll be notified if you are selected for an interview. 
 
 #### Postdoctoral positions
 
-*Prospective postdoctoral scholars are encouraged to apply to fellowships, e.g., [Schmidt Science Fellows](https://schmidtsciencefellows.org/program/overview/), [NSF fellowships](https://www.nsf.gov/funding/postdocs), [NOAA Climate & Global Change Postdoctoral Program](https://cpaess.ucar.edu/cgc), [CICOES Postdoctoral Program](https://cicoes.uw.edu/education/postdoc-program/) at the UW, [Program on Climate Change Postdoctoral Scholars](https://pcc.uw.edu/research/funding-opportunities/pcc-postdoctoral-scholar-program-2026/) at the UW.* 
+*Prospective postdoctoral scholars are encouraged to apply to fellowships, e.g., [Schmidt Science Fellows](https://schmidtsciencefellows.org/program/overview/){:target="_blank"}, [NSF fellowships](https://www.nsf.gov/funding/postdocs){:target="_blank"}, [NOAA Climate & Global Change Postdoctoral Program](https://cpaess.ucar.edu/cgc){:target="_blank"}, [CICOES Postdoctoral Program](https://cicoes.uw.edu/education/postdoc-program/){:target="_blank"} at the UW, [Program on Climate Change Postdoctoral Scholars](https://pcc.uw.edu/research/funding-opportunities/pcc-postdoctoral-scholar-program-2026/){:target="_blank"} at the UW.* 
 
 For fellowship applications that need to be co-written by a faculty member and prospective postdoc, if you're interested in developing an idea together, please send an email titled '_Prospective Postdoctoral Scholar (Current Year)_' with: (i) a short description of why you'd like to work together (e.g., which of my research areas interest you, which research techniques you’d like to use and/or learn), (ii) your CV, (iii) if you have a specific research idea you’d like to work on with me, it is helpful to briefly include some or all of the following information: significance, novelty, research questions, and methodology.
 
 ### About the department and living in Seattle
 
-The Department of Atmospheric & Climate Science at the University of Washington is a vibrant and pioneering place to be! It has consistently been a top-ranked department for decades (e.g., [Global Ranking of Academic Subjects](https://www.shanghairanking.com/rankings/gras/2026/AS0108)). Learn more here: https://atmos.uw.edu
+The Department of Atmospheric & Climate Science at the University of Washington is a vibrant and pioneering place to be! It has consistently been a top-ranked department for decades (e.g., [Global Ranking of Academic Subjects](https://www.shanghairanking.com/rankings/gras/2026/AS0108){:target="_blank"}). Learn more here: [https://atmos.uw.edu](https://atmos.uw.edu){:target="_blank"}
 
 Seattle is a major city in the US surrounded by spectacular natural beauty that is public transport accessible (mountains, state and national parks, lakes, islands, waterfronts). Mount Rainier is visible from the city, campus, and department. There is much to do besides the outdoors from music to theatre to book clubs to volunteering to language learning to watching live sports. Major technology companies have offices here (e.g., Amazon and Microsoft headquarters, Adobe/Google/Meta offices). The Canadian border is close by, such as Victoria on Vancouver island or Vancouver city. Reading various blogs on pros and cons of living in Seattle is a worthwhile endeavour. For example, in winter months, it is often grey and wet. 
 
