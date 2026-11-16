@@ -21,7 +21,7 @@ Welcome. I work at the interface of applied maths and climate physics to investi
 
 Website structure: 
 - Core (Values, People, Join the fun); 
-- Research (Approach, Research areas, AI use policy for research);
+- Research (Approach, Areas, AI use policy for research);
 - Teaching (Approach, Courses, AI use policy for learning).
 
 <p>
