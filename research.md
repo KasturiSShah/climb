@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-[Approach](#approach) // [Research areas](#research-areas) // [AI use policy](#ai-use-policy-for-research)
+[Approach](#approach) // [Areas](#research-areas) // [AI use policy](#ai-use-policy-for-research)
 
 ## Approach
 
@@ -20,7 +20,7 @@ Below are a few examples of my research, grouped by theme.
 
 ### Wildfire-atmosphere coupling
 
-The most extreme wildfires are increasing in intensity and frequency and create their own weather patterns and dynamics. 
+The most extreme wildfires are increasing in intensity and frequency and generate their own weather patterns and dynamics. 
 By what mechanism and under what conditions does coupling between atmospheric physics and wildfire-driven physics occur?
 
 Wildfire smoke-filled vortices in the stratosphere:
@@ -55,7 +55,7 @@ Observation-model comparison:
 
 ### Multiscale physics
 
-Many geophysical and astrophysical systems exhibit scale separation, often in both space and time. 
+Many geophysical and astrophysical dynamics exhibit scale separation, often in both space and time. 
 What are the physical processes that dominate in each dynamical regime? 
 What are scaling relationships between and parameterisations for key quantities? 
 
@@ -68,7 +68,7 @@ Astrophysical and geophysical turbulence:
 ### Cryospheric physics
 
 The term 'cryosphere' refers to the frozen portions of the Earth system: glaciers, icebergs, icesheets, iceshelves, permafrost, sea ice, snow, and so on. 
-My research focuses on how Earth's ice flows, deforms, and fails, with work on determining the rheology of floating ice (e.g., mélange which is a floating medley of drift ice, icebergs, and sea ice) and on transient dynamics (e.g., glaciers that episodically surge forward). 
+My research focuses on how Earth's ice flows, deforms, and fails, with work on the rheology of floating ice (e.g., mélange which is a floating medley of drift ice, icebergs, and sea ice) and on transient dynamics (e.g., episodic stick-slip behaviour by glaciers). 
 A running theme is granular physics in the cryosphere, specifically, subglacial sediment and mélange, for which I develop a mix of theoretical frameworks and laboratory experiments to compare to the observations. 
 Work done on my journey to studying coupled ice-sediment interactions is Shah, K., Pegler, S., Minchew, B.: Two-layer fluid flows on inclined surfaces. Journal of Fluid Mechanics. 2021. [https://doi.org/10.1017/jfm.2021.273](https://doi.org/10.1017/jfm.2021.273){:target="_blank"}
 
