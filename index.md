@@ -24,6 +24,8 @@ Website structure:
 - Research (Approach, Areas, AI use policy for research);
 - Teaching (Approach, Courses, AI use policy for learning).
 
+<img src="./assets/img/KasturiShah_Website.jpg" style="width: 40%; height: auto; min-width: 100px;">
+
 <p>
 	Assistant Professor<br>
 	Department of Atmospheric & Climate Science<br>
