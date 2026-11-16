@@ -27,20 +27,20 @@ This webpage will be progressively updated with syllabus, lecture material, and 
 ### Geophysical Fluid Dynamics
 
 The aim of this course is to develop a rigorous and firm understanding of the fluid dynamics that describes atmospheric and oceanic circulation. 
+The course philosophy is to immerse ourselves in the language of partial differential equations and analytical methods, with the goal that when we see a differential equation, it speaks to us.
 The course's main learning objectives are to 
-(i) immerse ourselves in the language of vector calculus, tensors, and partial differential equations, with the goal that when we see a differential equation, it speaks to us; 
-(ii) attain fluency with core analytical tools including scaling analysis and asymptotic expansions; 
-(iii) derive the conservation laws and Navier Stokes equation from first principles; 
-(iv) describe the (relative) role of each term in the rotating Navier Stokes equation; 
-(v) apply the various approximations to the governing equations and describe when these are valid. 
+(i) derive the conservation laws and Navier Stokes equation from first principles; 
+(ii) describe the (relative) role of each term in the governing equations; 
+(iii) attain fluency with core analytical tools including scaling analysis and asymptotic expansions; 
+(iv) apply the various approximations to the governing equations and describe when these are valid. 
 Additional topics include tracer transport, thermodynamic equation, and waves. 
 There will also be some laboratory sessions where experiments will be run in small groups, designed to deepen understanding of lecture material. 
-This is a graduate course open to PhD students in all departments. 
+This is a graduate course open to PhD students in all departments.
 Cross-listed between Atmospheric & Climate Science and School of Oceanography. 
 Required for Dynamics PhD students. 
 4 lectures/week.
 
-*Recommended reference material:* Joe Pedlosky's textbook, Joe Pedlosky's lecture notes, Rick Salmon’s lecture notes, Geoff Vallis' textbook.
+*Recommended reference material:* Joe Pedlosky's textbook, Joe Pedlosky's lecture notes, Rick Salmon’s lecture notes, Geoff Vallis' textbook. There is no expectation to buy textbooks and the UW Libraries has them freely available.
 
 ### Physics of Climate
 
@@ -65,7 +65,7 @@ For probabilistic ML, the learning objectives are
 (iii) explain core concepts in machine learning and statistical inference as well as their formulations, such as entropy, information content, likelihood, K-L divergence, loss functions; 
 (iv) conduct maximum likelihood estimation, derive maximum a posteriori expressions, and maximise entropy; 
 (v) describe simple neural networks: what they are, how they can be used, and why they work. 
-For scientific ML, the objective is to explain how a selection of techniques work, including Physics-Informed Neural Networks, Sparse Identification of Nonlinear Dynamics, and (time permitting) Symbolic Regression.
+For scientific ML, the objective is to (vi) explain how a selection of techniques work and when to apply them, including Physics-Informed Neural Networks, Sparse Identification of Nonlinear Dynamics, and (time permitting) Symbolic Regression.
 
 I developed and taught this course at the African Institute for Mathematical Sciences in South Africa, as part of the *AI for Science* Master’s program, and will teach a version of this course at the UW.
 
