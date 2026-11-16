@@ -25,7 +25,7 @@ _To prospective group members: I'm just starting my group, please peruse this we
 
 ### Kasturi Shah
 
-I care deeply about our planet and research its physics, focusing mostly on dynamics of the atmosphere and cryosphere. My research style consists of explaining observed behaviour of societal relevance using a blend of techniques from applied mathematics and the laboratory. I did my undergraduate in Physics at Princeton, worked for a year at Climate Central which is a research and communications non-profit, and did my PhD in Climate Physics and Chemistry at MIT. With the James S. McDonnell Foundation's postdoctoral fellowship, I moved to the other Cambridge and was based in the Department of Applied Mathematics and Theoretical Physics at the University of Cambridge, with an affiliation at St John's College. Now I am an Assistant Professor in the Department of Atmospheric and Climate Science at the University of Washington. I'm a former Fellow and visitor at the Geophysical Fluid Dynamics program in Woods Hole MA. I also lecture at the African Institute for Mathematical Sciences in South Africa for the *AI for Science* Master's program. In my spare time, I run, paint, apply for visas, and learn new languages. I subscribe to Celsius but run in miles. My UW dream is to meet Dubs 2 in person. Woof.
+I care deeply about our planet and research its physics, focusing mostly on dynamics of the atmosphere and cryosphere. My research style consists of explaining observed behaviour of societal relevance using a blend of techniques from applied mathematics and the laboratory. I did my undergraduate in Physics at Princeton, worked for a year at Climate Central which is a research and communications non-profit, and did my PhD in Climate Physics and Chemistry at MIT. With the James S. McDonnell Foundation's postdoctoral fellowship, I moved to the other Cambridge and was based in the Department of Applied Mathematics and Theoretical Physics at the University of Cambridge, with an affiliation at St John's College. Now I am an Assistant Professor in the Department of Atmospheric and Climate Science at the University of Washington. I'm a former Fellow at the Geophysical Fluid Dynamics program in Woods Hole MA. I also lecture at the African Institute for Mathematical Sciences in South Africa for the *AI for Science* Master's program. In my spare time, I run, paint, apply for visas, and learn new languages. I subscribe to Celsius but run in miles. My UW dream is to meet Dubs 2 in person. Woof.
 
 ---
 
@@ -73,7 +73,7 @@ Students in their junior and senior year interested in doing a research thesis a
 
 *Positions available for projects in academic year 2026-27 and summer 2027.*
 
-Projects will be posted through the Research Opportunities database with application instructions [https://www.washington.edu/undergradresearch/find/](https://www.washington.edu/undergradresearch/find/){:target="_blank"} and you'll be notified if you are selected for an interview. 
+Projects will be posted through the Research Opportunities database with application instructions [https://www.washington.edu/undergradresearch/find/](https://www.washington.edu/undergradresearch/find/){:target="_blank"} and you'll be notified if shortlisted for an interview. 
 
 #### Postdoctoral positions
 
@@ -83,8 +83,8 @@ For fellowship applications that need to be co-written by a faculty member and p
 
 ### About the department and living in Seattle
 
-The Department of Atmospheric & Climate Science at the University of Washington is a vibrant and pioneering place to be! It has consistently been a top-ranked department for decades (e.g., [Global Ranking of Academic Subjects](https://www.shanghairanking.com/rankings/gras/2026/AS0108){:target="_blank"}). Learn more here: [https://atmos.uw.edu](https://atmos.uw.edu){:target="_blank"}
+The Department of Atmospheric & Climate Science at the University of Washington is a vibrant and pioneering place to be! It has consistently been a top-ranked department (e.g., [Global Ranking of Academic Subjects](https://www.shanghairanking.com/rankings/gras/2026/AS0108){:target="_blank"}). Learn more here: [https://atmos.uw.edu](https://atmos.uw.edu){:target="_blank"}
 
-Seattle is a major city in the US surrounded by spectacular natural beauty that is public transport accessible (mountains, state and national parks, lakes, islands, waterfronts). Mount Rainier is visible from the city, campus, and department. There is much to do besides the outdoors from music to theatre to book clubs to volunteering to language learning to watching live sports. Major technology companies have offices here (e.g., Amazon and Microsoft headquarters, Adobe/Google/Meta offices). The Canadian border is close by, such as Victoria on Vancouver island or Vancouver city. Reading various blogs on pros and cons of living in Seattle is a worthwhile endeavour. For example, in winter months, it is often grey and wet. 
+Seattle is a major city in the US surrounded by spectacular natural beauty that is public transport accessible (mountains, state and national parks, lakes, islands, waterfronts). Mount Rainier is visible from the city, campus, and department. There is much to do besides the outdoors from music to theatre to book clubs to volunteering to language learning to live sports spectating. Major technology companies have offices here (e.g., Amazon and Microsoft headquarters, Adobe/Google/Meta offices). The Canadian border is close by, such as Victoria on Vancouver island or Vancouver city. Reading various blogs on pros and cons of living in Seattle is a worthwhile endeavour. For example, in winter months, it is often grey and wet. 
 
 ---
